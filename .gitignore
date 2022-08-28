@@ -130,7 +130,8 @@ dmypy.json
 
 # data
 data/curated/
-data/raw/
+data/raw/tlc_2019
+data/raw/tlc_2020
 
 # OSX .DS_Store file
 .DS_Store
